@@ -1,0 +1,12 @@
+[
+  {
+    "endpoint": "api/register",
+    "email": "eve.holt@reqres.in",
+    "pwd": "pistol"
+  },
+  {
+    "endpoint": "api/register",
+    "email": "first.last@reqres.in",
+    "pwd": "secret"
+  }
+]

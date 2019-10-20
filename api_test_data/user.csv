@@ -1,0 +1,3 @@
+endpoint, email, pwd
+api/register, eve.holt@reqres.in, pistol
+api/register, first.last@reqres.in, secret
